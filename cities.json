@@ -6,11 +6,17 @@
       "emoji": "🇵🇹",
       "date": "2027-10-31T15:59:59.138Z",
       "notes": "My favorite city so far!",
-      "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
-      },
-      "id": 73930385
+      "position": { "lat": 38.727882, "lng": -9.140900 },
+      "id": 1
+    },
+    {
+      "cityName": "Porto",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-08-20T12:00:00.000Z",
+      "notes": "Beautiful riverside city",
+      "position": { "lat": 41.149611, "lng": -8.611 },
+      "id": 2
     },
     {
       "cityName": "Madrid",
@@ -18,11 +24,17 @@
       "emoji": "🇪🇸",
       "date": "2027-07-15T08:22:53.976Z",
       "notes": "",
-      "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
-      },
-      "id": 17806751
+      "position": { "lat": 40.4168, "lng": -3.7038 },
+      "id": 3
+    },
+    {
+      "cityName": "Barcelona",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-05-10T10:30:00.000Z",
+      "notes": "Amazing architecture!",
+      "position": { "lat": 41.3851, "lng": 2.1734 },
+      "id": 4
     },
     {
       "cityName": "Berlin",
@@ -30,11 +42,53 @@
       "emoji": "🇩🇪",
       "date": "2027-02-12T09:24:11.863Z",
       "notes": "Amazing 😃",
-      "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
-      },
-      "id": 98443197
+      "position": { "lat": 52.5200, "lng": 13.4050 },
+      "id": 5
+    },
+    {
+      "cityName": "Munich",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-03-05T14:00:00.000Z",
+      "notes": "Oktoberfest city",
+      "position": { "lat": 48.1351, "lng": 11.5820 },
+      "id": 6
+    },
+    {
+      "cityName": "Tokyo",
+      "country": "Japan",
+      "emoji": "🇯🇵",
+      "date": "2027-06-01T09:00:00.000Z",
+      "notes": "Vibrant city",
+      "position": { "lat": 35.6895, "lng": 139.6917 },
+      "id": 7
+    },
+    {
+      "cityName": "Osaka",
+      "country": "Japan",
+      "emoji": "🇯🇵",
+      "date": "2027-07-21T15:00:00.000Z",
+      "notes": "Great food city",
+      "position": { "lat": 34.6937, "lng": 135.5023 },
+      "id": 8
+    },
+    {
+      "cityName": "New York",
+      "country": "USA",
+      "emoji": "🇺🇸",
+      "date": "2027-01-12T11:00:00.000Z",
+      "notes": "The Big Apple",
+      "position": { "lat": 40.7128, "lng": -74.0060 },
+      "id": 9
+    },
+    {
+      "cityName": "Los Angeles",
+      "country": "USA",
+      "emoji": "🇺🇸",
+      "date": "2027-04-18T14:00:00.000Z",
+      "notes": "City of Angels",
+      "position": { "lat": 34.0522, "lng": -118.2437 },
+      "id": 10
     }
   ]
 }
